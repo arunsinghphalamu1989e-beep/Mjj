@@ -1,0 +1,6 @@
+{
+  "name": "MJ AI",
+  "description": "Sassy, witty Hindi real-time voice AI assistant with glowing sci-fi orb",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
